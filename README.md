@@ -7,11 +7,10 @@ Welcome to the AWS Serverless ML Inference Pipeline project! This repository con
 
 ## Overview
 
-This project demonstrates how to:
-- Deploy a machine learning model on SageMaker.
+- Deployed machine learning model on SageMaker.
 - Capture real-time inference data.
-- Process and analyze the inference data using Lambda and Step Functions.
-- Handle exceptions and thresholds for inferences.
+- Processed and analyzed the inference data using Lambda and Step Functions.
+- Handled exceptions and thresholds for inferences.
 
 ## Getting Started
 
