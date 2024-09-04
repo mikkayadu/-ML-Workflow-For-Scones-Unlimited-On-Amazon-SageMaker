@@ -1,4 +1,4 @@
-# -ML-Workflow-For-a -Scone-Delivery-focused-logistics-Company-On-Amazon-SageMaker 
+# -ML-Workflow-For-a -Scone-Delivery-focused-logistics-Company-On-AWS-Cloud-Console
 A serverless machine learning inference pipeline using AWS Lambda and Step Functions, integrated with SageMaker for real-time image classification.
 
 # AWS Serverless ML Inference Pipeline
